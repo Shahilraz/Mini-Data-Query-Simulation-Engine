@@ -1,4 +1,3 @@
-// routes/queryRoutes.js
 const express = require('express');
 const { authenticateApiKey } = require('../middlewares/authMiddleware');
 const QueryTranslator = require('../services/queryTranslator');
