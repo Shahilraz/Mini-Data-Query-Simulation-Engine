@@ -1,4 +1,3 @@
-// services/queryTranslator.js
 const { users, products } = require('../data/mockData');
 
 class QueryTranslator {
