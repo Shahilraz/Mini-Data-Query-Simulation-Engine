@@ -1,4 +1,3 @@
-// services/queryValidator.js
 const { users, products } = require('../data/mockData');
 
 class QueryValidator {
